@@ -1,0 +1,6 @@
+namespace GreetingsProgram.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
